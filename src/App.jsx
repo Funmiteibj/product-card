@@ -6,7 +6,7 @@ import Description from "./components/Description";
 import Image from "./components/Image";
 import { Card, Container } from "react-bootstrap";
 
-const firstName = "Funmite"; // Change this to test the greeting
+const firstName = "Funmite"; // You can change this to test the greeting
 
 function App() {
   return (
